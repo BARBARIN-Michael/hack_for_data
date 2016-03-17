@@ -1,11 +1,12 @@
 [
 	{
-		"id": 1,
+		"id": 0,
 		"title": "Le Monde",
 		"type": "actualite",
 		"presPicture": "leMondePic.png",
 		"paperday": "paperdayLM.jpg",
-		"journal": "Le Monde"
+		"journal": "Le Monde",
+		"urli": "lemonde.html"
 	},
 	{
 		"id": 1,
@@ -13,14 +14,16 @@
 		"type": "actualite au toilette",
 		"presPicture": "canardPic.png",
 		"paperday": "paperdayCPC.jpg",
-		"journal": "CanardPC"
+		"journal": "CanardPC",
+		"urli": "canardpc.html"
 	},
 	{
-		"id": 1,
+		"id": 2,
 		"title": "Science et Vie Junior",
 		"type": "Science Physique",
 		"presPicture": "SVJ.png",
 		"paperday": "paperdaySVJ.jpg",
-		"journal": "Science et Vie"
+		"journal": "Science et Vie",
+		"urli": "svj.html"
 	}
 ]
