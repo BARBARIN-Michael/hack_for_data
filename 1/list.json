@@ -2,6 +2,7 @@
 	{
 		"id": 0,
 		"title": "Le Monde",
+		"subject": "La reine d'angleterre pose nue a l'elysée",
 		"type": "actualite",
 		"presPicture": "leMondePic.png",
 		"paperday": "paperdayLM.jpg",
@@ -11,6 +12,7 @@
 	{
 		"id": 1,
 		"title": "Moto Journal",
+		"subject": "MOTOGP : JOHANN ZARCO CHEZ SUZUKI EN 2017 !",
 		"type": "Pour les bikers, les vrais",
 		"presPicture": "bike.png",
 		"paperday": "paperdaybike.jpg",
