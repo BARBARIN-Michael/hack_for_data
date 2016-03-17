@@ -1,31 +1,26 @@
-{
-	"leMonde":
-	[
-		{
-			"id": 1,
-			"title": "Le Monde",
-			"type": "actualite",
-				"presPicture": "leMondePic.png",
-			"paperday": "paperdayLM.jpg"
-		}
-	],
-	"canardPC":
-	[
-		{
-			"id": 1,
-			"title": "CanardPC",
-			"type": "actualite au toilette",
-			"presPicture": "canardPic.png",
-			"paperday": "paperdayCPC.jpg"
-		}
-	],
-	"Science et Vie": [
-		{
-			"id": 1,
-			"title": "Science et Vie Junior",
-			"type": "Science Physique",
-			"presPicture": "SVJ.png",
-			"paperday": "paperdaySVJ.jpg"
-		}
-	]
-}
+[
+	{
+		"id": 1,
+		"title": "Le Monde",
+		"type": "actualite",
+		"presPicture": "leMondePic.png",
+		"paperday": "paperdayLM.jpg",
+		"journal": "Le Monde"
+	},
+	{
+		"id": 1,
+		"title": "CanardPC",
+		"type": "actualite au toilette",
+		"presPicture": "canardPic.png",
+		"paperday": "paperdayCPC.jpg",
+		"journal": "CanardPC"
+	},
+	{
+		"id": 1,
+		"title": "Science et Vie Junior",
+		"type": "Science Physique",
+		"presPicture": "SVJ.png",
+		"paperday": "paperdaySVJ.jpg",
+		"journal": "Science et Vie"
+	}
+]
