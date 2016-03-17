@@ -1,21 +1,22 @@
-{
-	"leMonde":
-	[
-		{
-			"id": 0,
-			"title": "Le Monde",
-			"type": "actualite",
-				"presPicture": "leMondePic.png",
-			"paperday": "paperdayLM.jpg"
-		}
-	],
-	"Moto Journal": [
-		{
-			"id": 1,
-			"title": "Moto Journal",
-			"type": "Pour les bikers, les vrais",
-			"presPicture": "bike.png",
-			"paperday": "paperdaybike.jpg"
-		}
-	]
-}
+
+[
+	{
+		"id": 0,
+		"title": "Le Monde",
+		"type": "actualite",
+		"presPicture": "leMondePic.png",
+		"paperday": "paperdayLM.jpg",
+		"journal": "Le Monde",
+		"urli": "LeMonde.html"
+	},
+	{
+		"id": 1,
+		"title": "Moto Journal",
+		"type": "Pour les bikers, les vrais",
+		"presPicture": "bike.png",
+		"paperday": "paperdaybike.jpg",
+		"journal": "Moto Journal",
+		"urli": "MotoJournal.html"
+	},
+	
+]
