@@ -8,7 +8,7 @@
 				"presPicture": "leMondePic.png",
 			"paperday": "paperdayLM.jpg"
 		}
-	]
+	],
 	"canardPC":
 	[
 		{
@@ -18,7 +18,7 @@
 			"presPicture": "canardPic.png",
 			"paperday": "paperdayCPC.jpg"
 		}
-	]
+	],
 	"Science et Vie": [
 		{
 			"id": 1,
