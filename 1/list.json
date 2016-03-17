@@ -2,30 +2,20 @@
 	"leMonde":
 	[
 		{
-			"id": 1,
+			"id": 0,
 			"title": "Le Monde",
-			"type": "actualite"
+			"type": "actualite",
 				"presPicture": "leMondePic.png",
 			"paperday": "paperdayLM.jpg"
 		}
-	]
-	"canardPC":
-	[
+	],
+	"Moto Journal": [
 		{
 			"id": 1,
-			"title": "CanardPC",
-			"type": "actualite au toilette",
-			"presPicture": "canardPic.png",
-			"paperday": "paperdayCPC.jpg"
-		}
-	]
-	"Science et Vie": [
-		{
-			"id": 1,
-			"title": "Science et Vie Junior",
-			"type": "Science Physique",
-			"presPicture": "SVJ.png",
-			"paperday": "paperdaySVJ.jpg"
+			"title": "Moto Journal",
+			"type": "Pour les bikers, les vrais",
+			"presPicture": "bike.png",
+			"paperday": "paperdaybike.jpg"
 		}
 	]
 }
