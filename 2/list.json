@@ -2,6 +2,7 @@
 	{
 		"id": 0,
 		"title": "Le Monde",
+		"subject": "Non, l'accent circonflexe ne va pas disparaître.",
 		"type": "actualite",
 		"presPicture": "leMondePic.png",
 		"paperday": "paperdayLM.jpg",
@@ -11,6 +12,7 @@
 	{
 		"id": 1,
 		"title": "Science et Vie Junior",
+		"subject": "La vie sexuel des mouches du galapagos.",
 		"type": "Science Physique",
 		"presPicture": "SVJ.png",
 		"paperday": "paperdaySVJ.jpg",
