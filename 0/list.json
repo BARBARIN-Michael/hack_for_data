@@ -4,7 +4,7 @@
 		{
 			"id": 1,
 			"title": "Le Monde",
-			"type": "actualite"
+			"type": "actualite",
 				"presPicture": "leMondePic.png",
 			"paperday": "paperdayLM.jpg"
 		}
