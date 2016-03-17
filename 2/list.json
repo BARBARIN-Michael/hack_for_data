@@ -1,21 +1,21 @@
-{
-	"leMonde":
-	[
-		{
-			"id": 1,
-			"title": "Le Monde",
-			"type": "actualite",
-				"presPicture": "leMondePic.png",
-			"paperday": "paperdayLM.jpg"
-		}
-	],
-	"Science et Vie": [
-		{
-			"id": 1,
-			"title": "Science et Vie Junior",
-			"type": "Science Physique",
-			"presPicture": "SVJ.png",
-			"paperday": "paperdaySVJ.jpg"
-		}
-	]
-}
+[
+	{
+		"id": 0,
+		"title": "Le Monde",
+		"type": "actualite",
+		"presPicture": "leMondePic.png",
+		"paperday": "paperdayLM.jpg",
+		"journal": "Le Monde",
+		"urli": "LeMonde.html"
+	},
+	{
+		"id": 1,
+		"title": "Science et Vie Junior",
+		"type": "Science Physique",
+		"presPicture": "SVJ.png",
+		"paperday": "paperdaySVJ.jpg",
+		"journal": "Science et Vie Junior",
+		"urli": "svj.html"
+	},
+	
+]
