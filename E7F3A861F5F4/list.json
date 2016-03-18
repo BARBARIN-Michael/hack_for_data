@@ -1,31 +1,32 @@
-{
-	"leMonde":
-	[
-		{
-			"id": 1,
-			"title": "Le Monde",
-			"type": "actualite"
-				"presPicture": "leMondePic.png",
-			"paperday": "paperdayLM.jpg"
-		}
-	]
-	"canardPC":
-	[
-		{
-			"id": 1,
-			"title": "CanardPC",
-			"type": "actualite au toilette",
-			"presPicture": "canardPic.png",
-			"paperday": "paperdayCPC.jpg"
-		}
-	]
-	"Science et Vie": [
-		{
-			"id": 1,
-			"title": "Science et Vie Junior",
-			"type": "Science Physique",
-			"presPicture": "SVJ.png",
-			"paperday": "paperdaySVJ.jpg"
-		}
-	]
-}
+[
+	{
+		"id": 0,
+		"title": "Le Monde",
+		"subject": "Crise economie en papouasie nouvelle guinée, Une nouvelle fraiche!",
+		"type": "actualite",
+		"presPicture": "leMondePic.png",
+		"paperday": "paperdayLM.jpg",
+		"journal": "Le Monde",
+		"urli": "lemonde.html"
+	},
+	{
+		"id": 1,
+		"title": "CanardPC",
+		"subject": "A quoi peut bien servir Internet Explorer fourni avec windoze XP ? A telecharger Firefox.",
+		"type": "actualite au toilette",
+		"presPicture": "canardPic.png",
+		"paperday": "paperdayCPC.jpg",
+		"journal": "CanardPC",
+		"urli": "canardpc.html"
+	},
+	{
+		"id": 2,
+		"title": "Science et Vie Junior",
+		"subject": "Le big bang devoile!",
+		"type": "Science Physique",
+		"presPicture": "SVJ.png",
+		"paperday": "paperdaySVJ.jpg",
+		"journal": "Science et Vie",
+		"urli": "svj.html"
+	}
+]
